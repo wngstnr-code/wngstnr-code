@@ -1,5 +1,5 @@
 ### 💫 About Me:
-Hello! My Name is Wangsit Nursyahada. I am an Information Engineering student at Gadjah Mada University and a website enthusiast. At this moment, I am studying to become a full-stack web developer, and I’m just beginning to learn how to create efficient, durable, and user-friendly systems. I enjoy their engineering behind the scenes and creating systems that people love to interact with.<br><br>
+Tempat menyimpan source code kink Wangsit<br><br>
 
 
 ### 🌐 My Socials Media:
