@@ -1,5 +1,5 @@
 ### 💫 About Me:
-Tempat menyimpan source code kink Wangsit<br><br>
+Tempat menyimpan source code mas Wangsit<br><br>
 
 
 ### 🌐 My Socials Media:
