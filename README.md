@@ -4,7 +4,7 @@
 ---
 ### Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wngst.nr) [![LinkedIn](https://flat.badgen.net/badge/icon/LinkedIn?icon=linkedin&bg=0077B5&labelColor=0077B5)](https://linkedin.com/in/wangsitnursyahada)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wngst.nr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://linkedin.com/in/wangsitnursyahada)
 
 ---
 
