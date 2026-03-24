@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&center=false&vCenter=false&width=800&lines=Hi,+I'm+Wangsit!;Software+%26+Data+Enthusiast;Focusing+on+Backend+Engineering;With+a+strong+interest+in+applied+Data+Science+%26+Machine+Learning;Welcome+to+my+Github!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&center=false&vCenter=false&width=800&lines=Hi,+I'm+Wangsit!;Software+%26+Data+Enthusiast;Focusing+on+Backend+Engineering;With+a+strong+interest+in+Data+Science+%26+Machine+Learning;Welcome+to+my+Github!" alt="Typing SVG" />
 </p>
 
 ### Socials:
@@ -19,8 +19,6 @@
 
 #### Frontend & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wngstnr-code&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### Contribution:
 
