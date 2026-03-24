@@ -1,15 +1,7 @@
 ### 💫 About Me:
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&background=1B263B&center=false&vCenter=false&width=500&lines=%F0%9F%91%8B+Hi,+I'm+Wangsit!;%F0%9F%9A%80+Software+%26+Data+Enthusiast;%E2%9A%99%EF%B8%8F+Mostly+work+in+Backend;%F0%9F%93%8A+Into+Data+Science+%26+ML;%E2%9C%A8+Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&center=false&vCenter=false&width=500&lines=%F0%9F%91%8B+Hi,+I'm+Wangsit!;%F0%9F%9A%80+Software+%26+Data+Enthusiast;%E2%9A%99%EF%B8%8F+Mostly+work+in+Backend;%F0%9F%93%8A+Into+Data+Science+%26+ML;%E2%9C%A8+Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
-
-
-
-
-
-
-
-
 
 ### 🌐 My Socials Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wngst.nr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wangsitnursyahada) 
