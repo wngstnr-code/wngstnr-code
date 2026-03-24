@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&center=false&vCenter=false&width=500&lines=Hi,+I'm+Wangsit!;Software+%26+Data+Enthusiast;Mostly+work+in+Backend;Into+Data+Science+%26+ML;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&center=false&vCenter=false&width=500&lines=Hi,+I'm+Wangsit!;Software+%26+Data+Enthusiast;Mostly+work+in+Backend;Into+Data+Science+%26+Machine+Learning;Welcome+to+my+profile!" alt="Typing SVG" />
 
 </p>
 
@@ -12,7 +12,13 @@
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wngstnr-code&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### GitHub Statistics:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wngstnr-code&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wngstnr-code&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wngstnr-code&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
 
 ### Games:
 
