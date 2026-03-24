@@ -1,11 +1,11 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&center=false&vCenter=false&width=800&lines=Hi,+I'm+Wangsit!;Focusing+on+Data+Science+%26+Machine+Learning;Open+to+Backend+Engineering+projects;Building+intelligent+and+scalable+systems;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&center=false&vCenter=false&width=800&lines=Hi,+I'm+Wangsit!;Focusing+on+Data+Science+%26+Machine+Learning;Open+to+Backend+Engineering+projects;Building+intelligent+and+scalable+systems;Welcome+to+my+GitHub!" alt="Typing SVG" /></p>
 
 ---
 ### Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wngst.nr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wangsitnursyahada)
+
 ---
 
 ### Tech Stack:
@@ -25,6 +25,7 @@
 #### Frontend & Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ### Contribution:
@@ -34,8 +35,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wngstnr-code/wngstnr-code/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wngstnr-code/wngstnr-code/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 [![](https://visitcount.itsvg.in/api?id=wngstnr-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
