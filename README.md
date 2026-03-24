@@ -1,13 +1,9 @@
 ### 💫 About Me:
 
-- 👋 **Hi, I'm Wangsit Nursyahada!**
-- 🔭 **Currently exploring Web Development & Python projects**
-- 🌱 **Continuous learner of JavaScript, TypeScript, and Modern Frameworks**
-- ⚡ **Passionate about building cool and useful things**
-
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3ECF8E&width=435&lines=Fullstack+Enthusiast;Building+Awesome+Websites;Always+Learning+New+Skills...;Welcome+To+My+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3ECF8E&center=false&vCenter=false&width=500&lines=%F0%9F%91%8B+Hi,+I'm+Wangsit+Nursyahada!;%F0%9F%9A%80+Fullstack+Enthusiast;%F0%9F%94%AD+Exploring+Web+Dev+%26+Python;%F0%9F%8C%B1+Learning+JS,+TS+%26+Modern+Frameworks;%E2%9A%A1+Passionate+about+building+cool+things;%F0%9F%92%BB+Building+Awesome+Websites;%E2%9C%A8+Welcome+To+My+Profile!" alt="Typing SVG" />
 </p>
+
 
 
 
