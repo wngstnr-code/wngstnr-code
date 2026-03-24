@@ -1,5 +1,14 @@
 ### 💫 About Me:
-Tempat menyimpan source code mas Wangsit<br><br>
+
+- 👋 **Hi, I'm Wangsit Nursyahada!**
+- 🔭 **Currently exploring Web Development & Python projects**
+- 🌱 **Continuous learner of JavaScript, TypeScript, and Modern Frameworks**
+- ⚡ **Passionate about building cool and useful things**
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3ECF8E&width=435&lines=Fullstack+Enthusiast;Building+Awesome+Websites;Always+Learning+New+Skills...;Welcome+To+My+Profile!" alt="Typing SVG" />
+</p>
+
 
 
 ### 🌐 My Socials Media:
