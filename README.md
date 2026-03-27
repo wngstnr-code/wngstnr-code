@@ -1,12 +1,9 @@
 <p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&center=false&vCenter=false&width=800&lines=Hi,+I'm+Wangsit!;Focusing+on+Data+Science+%26+Machine+Learning;Open+to+Backend+Engineering+projects;Building+intelligent+and+scalable+systems;Welcome+to+my+GitHub!">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=false&vCenter=false&width=800&lines=Hi,+I'm+Wangsit!;Focusing+on+Data+Science+%26+Machine+Learning;Open+to+Backend+Engineering+projects;Building+intelligent+and+scalable+systems;Welcome+to+my+GitHub!">
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&center=false&vCenter=false&width=800&lines=Hi,+I'm+Wangsit!;Focusing+on+Data+Science+%26+Machine+Learning;Open+to+Backend+Engineering+projects;Building+intelligent+and+scalable+systems;Welcome+to+my+GitHub!">
-</picture>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&center=false&vCenter=false&width=800&lines=Hi,+I'm+Wangsit!;Focusing+on+Data+Science+%26+Machine+Learning;Open+to+Backend+Engineering+projects;Building+intelligent+and+scalable+systems;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </p>
 
 ---
+
 ### Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wngst.nr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://linkedin.com/in/wangsitnursyahada)
@@ -29,7 +26,7 @@
 
 #### Frontend & Tools
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
