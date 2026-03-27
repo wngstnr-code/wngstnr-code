@@ -1,18 +1,13 @@
 <p align="left">
   <picture>
-    <!-- Dark mode -->
     <source 
       srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1C40F&width=800&lines=Hi,+I'm+Wangsit!;Focusing+on+Data+Science+%26+Machine+Learning;Open+to+Backend+Engineering+projects;Building+intelligent+and+scalable+systems;Welcome+to+my+GitHub!" 
       media="(prefers-color-scheme: dark)" 
     />
-    
-    <!-- Light mode -->
     <source 
       srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=800&lines=Hi,+I'm+Wangsit!;Focusing+on+Data+Science+%26+Machine+Learning;Open+to+Backend+Engineering+projects;Building+intelligent+and+scalable+systems;Welcome+to+my+GitHub!" 
       media="(prefers-color-scheme: light)" 
     />
-
-    <!-- Fallback -->
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=800&lines=Hi,+I'm+Wangsit!;Focusing+on+Data+Science+%26+Machine+Learning;Open+to+Backend+Engineering+projects;Building+intelligent+and+scalable+systems;Welcome+to+my+GitHub!" 
       alt="Typing SVG" 
