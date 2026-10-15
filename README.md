@@ -1,47 +1,12 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=false&vCenter=false&width=800&lines=Hi,+I'm+Wangsit!;Software+Engineer+%C2%B7+Full+Stack+%26+Web3;Writing+smart+contracts+with+Solidity+%2B+Foundry;Student+by+day,+builder+by+night;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=D4AF37&center=false&vCenter=false&width=800&lines=Hi,+I'm+Wangsit!;Software+Engineer+%C2%B7+Full+Stack+%26+Web3;Information+Engineering+student+at+UGM;Building+on-chain+products+at+hackathons;Writing+smart+contracts+with+Solidity+%2B+Foundry;Check+out+my+portfolio+at+wngstnr.space" alt="Typing SVG" />
 </p>
-
-I'm an Information Engineering student at **Universitas Gadjah Mada**, Yogyakarta, and I build full stack and Web3 products, most of them at hackathons. Lately I keep coming back to one problem: **tokenized stocks**. They trade on-chain around the clock, but the real market closes every night and every weekend, and that gap is where people get hurt.
-
-🖥️ Check out my portfolio, a tiny Windows 95 style OS running in a 3D room: **[wngstnr.space](https://wngstnr.space)**
-
-📫 Open to internships, freelance projects and remote work: **wangsitsada1234@gmail.com**
 
 ---
 
 ### Socials:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wngstnr.space-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wngstnr.space) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://www.linkedin.com/in/wangsitnursyahada) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dudung_gg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wngst.nr) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangsitsada1234@gmail.com)
-
----
-
-### Achievements:
-
-| | Result | Event | Project |
-|---|---|---|---|
-| 🏆 | **Overall Winner & WDK Track Winner** | Tether Developers Cup 2026 | [Tarkam](https://github.com/wngstnr-code/tarkam) |
-| 🏆 | **1st Place** | Monad Blitz Jogja | [PassChick](https://github.com/wngstnr-code/PassChick) |
-| 🏆 | **3rd Place** | ChainHack 2026 by CCACC | [Snitch](https://github.com/wngstnr-code/snitch) |
-| 🏆 | **Top 10** (1st ranked project from Indonesia) | Celo Proof of Ship (May 2026) | [PassChick](https://github.com/wngstnr-code/PassChick) |
-| 🎖️ | **UGM Representative** | GEMASTIK XVIII 2025 (Software Development) | [Laporin Aja!](https://github.com/AncungAulia/laporinaja) |
-
----
-
-### Featured Projects:
-
-| Project | What it does |
-|---|---|
-| **[Tarkam](https://github.com/wngstnr-code/tarkam)** · [live](https://tarkam.vercel.app) | On-chain prize escrow for grassroots football tournaments in Indonesia, with USDT moving through self-custodial Tether WDK wallets. |
-| **[PassChick](https://github.com/wngstnr-code/PassChick)** · [live](https://passchick.xyz) | A skill-based Web3 arcade game: play in real time, climb the leaderboard, and get rewards settled on-chain. |
-| **[Snitch](https://github.com/wngstnr-code/snitch)** · [live](https://snitch-lyart.vercel.app) | Living EUDR compliance attestations on Base that revoke themselves when satellite evidence contradicts them. |
-| **[Levra](https://github.com/wngstnr-code/levra)** · [live](https://levra-mon.vercel.app) | A margin account for tokenized stocks on Monad: leveraged long, short, or lend, with risk limits that tighten before the US market closes. |
-| **[Halyard](https://github.com/wngstnr-code/halyard)** · [live](https://halyard-bnb.vercel.app) | De-risks bStock loans on Venus (BNB Chain) before the weekend gap, in one atomic flash loan transaction. |
-| **[Nokturn](https://github.com/wngstnr-code/nokturn)** · [live](https://nokturn-cyan.vercel.app) | Intent-based batch-auction settlement for tokenized equities on Robinhood Chain. |
-| **[Reckonz](https://github.com/wngstnr-code/reckonz)** · [live](https://reckonz.xyz) | Non-custodial execution and risk tooling for tokenized equities on X Layer, with a fair-value oracle that withholds rather than guesses. |
-| **[Cachet](https://github.com/wngstnr-code/cachet)** · [live](https://cachetprotocol.vercel.app) | Collateralized "first-seen" certificates for digital work, usable by AI agents through a pay-per-call x402 API. |
-
-More projects, plus the full story, live at **[wngstnr.space](https://wngstnr.space)**.
 
 ---
 
