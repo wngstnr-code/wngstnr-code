@@ -10,15 +10,15 @@
 
 ---
 
-### 🏆 Achievements:
+### Achievements:
 
-| Project | Event | Result |
-|---|---|---|
-| [Tarkam](https://github.com/wngstnr-code/tarkam) | [Tether Developers Cup 2026](https://dorahacks.io/hackathon/tether-developers-cup/detail) | 🏆 Overall Winner & WDK Track Winner |
-| [Levra](https://github.com/wngstnr-code/levra) | [Monad Metropolis 2026](https://monad.xyz/metropolis) | 🏆 Privy Bounty Winner |
-| [Pass Chick](https://github.com/wngstnr-code/pass-chick) | [Monad Blitz Jogja Vol. 1](https://luma.com/blitz-jogja-apr-2026) | 🥇 1st Place |
-| [SNITCH](https://github.com/wngstnr-code/snitch) | [ChainHack 2026 / NeuralLedger 5.0](https://www.hackquest.io/hackathons/ChainHack) | 🥉 3rd Place |
-| [PassChick](https://github.com/wngstnr-code/PassChick) | [Celo Proof of Ship, May 2026](https://celoplatform.notion.site/What-is-Proof-of-Ship-17cd5cb803de8060ba10d22a72b549f8) | 🏅 Top 10 |
+<p align="left">
+  <a href="https://github.com/wngstnr-code/tarkam"><img src="https://img.shields.io/badge/%F0%9F%8F%86%20Overall%20Winner%20%2B%20WDK%20Track-Tarkam%20%C2%B7%20Tether%20Developers%20Cup%202026-D4AF37?style=for-the-badge&labelColor=1C1C1C" alt="🏆 Overall Winner + WDK Track · Tarkam · Tether Developers Cup 2026" /></a><br>
+  <a href="https://github.com/wngstnr-code/levra"><img src="https://img.shields.io/badge/%F0%9F%8F%86%20Privy%20Bounty%20Winner-Levra%20%C2%B7%20Monad%20Metropolis%202026-D4AF37?style=for-the-badge&labelColor=1C1C1C" alt="🏆 Privy Bounty Winner · Levra · Monad Metropolis 2026" /></a><br>
+  <a href="https://github.com/wngstnr-code/pass-chick"><img src="https://img.shields.io/badge/%F0%9F%A5%87%201st%20Place-Pass%20Chick%20%C2%B7%20Monad%20Blitz%20Jogja%20Vol.%201-D4AF37?style=for-the-badge&labelColor=1C1C1C" alt="🥇 1st Place · Pass Chick · Monad Blitz Jogja Vol. 1" /></a><br>
+  <a href="https://github.com/wngstnr-code/snitch"><img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-SNITCH%20%C2%B7%20ChainHack%202026-D4AF37?style=for-the-badge&labelColor=1C1C1C" alt="🥉 3rd Place · SNITCH · ChainHack 2026" /></a><br>
+  <a href="https://github.com/wngstnr-code/PassChick"><img src="https://img.shields.io/badge/%F0%9F%8F%85%20Top%2010-PassChick%20%C2%B7%20Celo%20Proof%20of%20Ship%20May%202026-D4AF37?style=for-the-badge&labelColor=1C1C1C" alt="🏅 Top 10 · PassChick · Celo Proof of Ship May 2026" /></a><br>
+</p>
 
 ---
 
