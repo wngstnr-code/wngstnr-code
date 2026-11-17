@@ -10,6 +10,18 @@
 
 ---
 
+### 🏆 Achievements:
+
+| Project | Event | Result |
+|---|---|---|
+| [Tarkam](https://github.com/wngstnr-code/tarkam) | [Tether Developers Cup 2026](https://dorahacks.io/hackathon/tether-developers-cup/detail) | 🏆 Overall Winner & WDK Track Winner |
+| [Levra](https://github.com/wngstnr-code/levra) | [Monad Metropolis 2026](https://monad.xyz/metropolis) | 🏆 Privy Bounty Winner |
+| [Pass Chick](https://github.com/wngstnr-code/pass-chick) | [Monad Blitz Jogja Vol. 1](https://luma.com/blitz-jogja-apr-2026) | 🥇 1st Place |
+| [SNITCH](https://github.com/wngstnr-code/snitch) | [ChainHack 2026 / NeuralLedger 5.0](https://www.hackquest.io/hackathons/ChainHack) | 🥉 3rd Place |
+| [PassChick](https://github.com/wngstnr-code/PassChick) | [Celo Proof of Ship, May 2026](https://celoplatform.notion.site/What-is-Proof-of-Ship-17cd5cb803de8060ba10d22a72b549f8) | 🏅 Top 10 |
+
+---
+
 ### Tech Stack:
 
 #### Languages
